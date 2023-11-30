@@ -1,6 +1,6 @@
 header {
-    background-color: rgb(0, 0, 0);
-color:rgb(255, 255, 255)55, 241, 241);
+    background-color: rgb(231, 231, 231);
+color:rgb(0, 0, 0)55, 241, 241);
 }
 
 body {
@@ -11,4 +11,10 @@ body {
 footer {
     background-color: rgb(0, 0, 0);
     color:rgb(255, 255, 255);
+}
+
+.imagem-2 {
+    widht: 40%;
+    align-items: center;
+    margin-left: 200px;
 }
